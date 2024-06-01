@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu estou aprendendo programação<br>E estou a procura de estágios na área de Back-ende Front-end.
+Eu estou aprendendo programação<br>E estou a procura de estágios na área de Back-end e Front-end.
 
 
 ## 🌐 Socials:
