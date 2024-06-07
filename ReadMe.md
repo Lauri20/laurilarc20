@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou formada em Sistema de Informação trabalho na área de Front-end estou estudando para ser FullStack fazer projetos e arrumar um emprego nessa área.
+Sou formada em Sistema de Informação, sempre estudando e praticando novas tecnologias.
 
 
 ## 🌐 Socials:
