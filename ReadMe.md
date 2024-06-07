@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou formada em Sistema de Informação trabalho na área de infraestrutura em TI mas tenho muito interesse na parte de desenvolvimento que é o seguimento que quero seguir, estou estudando para ser FullStack fazer projetos e arrumar um eprego nessa área.
+Sou formada em Sistema de Informação trabalho na área de Front-end estou estudando para ser FullStack fazer projetos e arrumar um emprego nessa área.
 
 
 ## 🌐 Socials:
